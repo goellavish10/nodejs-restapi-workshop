@@ -1,0 +1,26 @@
+{
+  "name": "todo-list-app-in-javascript",
+  "version": "1.0.0",
+  "description": "Welcome to the Github repository for the Workshop on Backend Engineering at NIT Jalandhar. This workshop is designed to teach participants the fundamental concepts and skills needed to develop robust and scalable backend systems. The repository includes sample code and exercises that cover a wide range of topics, such as web development frameworks, databases, and RESTful API design.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goellavish10/nodejs-restapi-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goellavish10/nodejs-restapi-workshop/issues"
+  },
+  "homepage": "https://github.com/goellavish10/nodejs-restapi-workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
